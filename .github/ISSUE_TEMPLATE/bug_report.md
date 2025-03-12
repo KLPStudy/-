@@ -3,7 +3,7 @@ name: Bug report
 about: 버그 발생시 작성해주세요
 title: ''
 labels: ":bug:Bug"
-assignees: ASDF110724
+assignees: ''
 
 ---
 

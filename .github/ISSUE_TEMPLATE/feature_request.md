@@ -3,7 +3,7 @@ name: Feature request
 about: 추가하고 싶은 기능을 작성해주세요.
 title: ''
 labels: ":sparkles:Feature"
-assignees: ASDF110724
+assignees: ''
 
 ---
 
